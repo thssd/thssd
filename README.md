@@ -28,8 +28,3 @@ Atualmente busco minha primeira oportunidade de estágio em desenvolvimento back
 - Testes com JUnit
 - Deploy de aplicações backend
 
-## GitHub Stats 📊
-
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thssd&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thssd&layout=compact&theme=tokyonight)
