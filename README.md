@@ -1,5 +1,32 @@
-## Hi there 👋
+## Olá, eu sou Thiago 👋
 
+Desenvolvedor backend em formação, com foco em Java e Spring Boot.
+
+Atualmente busco minha primeira oportunidade de estágio em desenvolvimento backend, com interesse em construção de APIs REST, banco de dados e boas práticas de software.
+
+## 🚀 Tecnologias e Ferramentas
+
+- Java
+- Spring Boot
+- API REST
+- JPA / Hibernate
+- Spring Data JPA
+- PostgreSQL
+- SQL / JPQL
+- Maven
+- JSON / Jackson Databind
+
+## 🎯 Atualmente estudando
+
+- Spring Boot avançado
+- Segurança com Spring Security + JWT
+- Testes com JUnit
+- Deploy de aplicações backend
+
+## 📫 Contato
+
+- LinkedIn: linkedin.com/in/thiagoshimizusodre
+- Email: thiagoshimizusodre@gmail.com
 <!--
 **thssd/thssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
