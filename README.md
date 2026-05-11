@@ -1,4 +1,4 @@
-## Olá, eu sou Thiago 👋
+## Olá, eu sou Thiago Shimizu 👋
 
 Desenvolvedor backend em formação, com foco em Java e Spring Boot.
 
