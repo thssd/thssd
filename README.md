@@ -4,7 +4,7 @@ Desenvolvedor backend em formação, com foco em Java e Spring Boot.
 
 Atualmente busco minha primeira oportunidade de estágio em desenvolvimento backend, com interesse em construção de APIs REST, banco de dados e boas práticas de software.
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas 🚀 
 
 - Java
 - Spring Boot
@@ -16,7 +16,7 @@ Atualmente busco minha primeira oportunidade de estágio em desenvolvimento back
 - Maven
 - JSON / Jackson Databind
 
-## 🎯 Atualmente estudando
+## Atualmente estudando 🎯
 
 - Spring Boot avançado
 - Segurança com Spring Security + JWT
