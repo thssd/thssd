@@ -1,4 +1,9 @@
 ## Olá, eu sou Thiago Shimizu 👋
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 Desenvolvedor backend em formação, com foco em Java e Spring Boot.
 
@@ -23,17 +28,8 @@ Atualmente busco minha primeira oportunidade de estágio em desenvolvimento back
 - Testes com JUnit
 - Deploy de aplicações backend
 
-<!--
-**thssd/thssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats 📊
 
-Here are some ideas to get you started:
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thssd&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thssd&layout=compact&theme=tokyonight)
