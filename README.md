@@ -7,7 +7,7 @@
 
 Desenvolvedor backend em formação, com foco em Java e Spring Boot.
 
-Atualmente busco minha primeira oportunidade de estágio em desenvolvimento backend, com interesse em construção de APIs REST, banco de dados e boas práticas de software.
+Tenho 18 anos e busco minha primeira oportunidade de estágio em desenvolvimento backend, com interesse em construção de APIs REST, banco de dados e boas práticas de software.
 
 ## Tecnologias e Ferramentas 🚀 
 
