@@ -25,7 +25,7 @@ Atualmente busco minha primeira oportunidade de estágio em desenvolvimento back
 
 ## 📫 Contato
 
-- LinkedIn: linkedin.com/in/thiagoshimizusodre
+- LinkedIn: [linkedin.com/in/thiagoshimizusodre]([url](https://www.linkedin.com/in/thiagoshimizusodre/))
 - Email: thiagoshimizusodre@gmail.com
 <!--
 **thssd/thssd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
