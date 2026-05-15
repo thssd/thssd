@@ -13,7 +13,7 @@ Tenho 18 anos e busco minha primeira oportunidade de estágio em desenvolvimento
 
 - Java
 - Spring Boot
-- REST API
+- API REST
 - JPA / Hibernate
 - Spring Data JPA
 - PostgreSQL
