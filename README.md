@@ -5,9 +5,7 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
-Desenvolvedor backend em formação, com foco em Java e Spring Boot. 
-
-Tenho 18 anos e busco minha primeira oportunidade de estágio em desenvolvimento backend, com interesse em construção de APIs REST, banco de dados e boas práticas de software.
+Desenvolvedor backend em formação com foco em Java e Spring Boot, atuando na construção de APIs REST, persistência de dados e boas práticas de arquitetura de software.
 
 ## Tecnologias e Ferramentas 🚀 
 
