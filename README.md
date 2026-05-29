@@ -1,12 +1,12 @@
-# Olá, eu sou Thiago Shimizu 👋
+# Hi, I'm Thiago Shimizu 👋
 
 ### Backend Developer | Java & Spring Boot
 
-Desenvolvedor backend em formação, focado no ecossistema Java e construção de APIs REST.
+Backend developer in training, focused on the Java ecosystem and REST API development.
 
-Busco constantemente aprimorar minhas habilidades através do desenvolvimento de projetos práticos, aplicando boas práticas de engenharia de software, arquitetura backend e desenvolvimento de APIs.
+Continuously improving my skills through hands-on projects, applying software engineering best practices, backend architecture concepts, and scalable application development.
 
-🎯 Objetivo atual: conquistar minha primeira oportunidade como desenvolvedor backend.
+🎯 Current goal: pursuing my first opportunity as a backend developer.
 
 ---
 
