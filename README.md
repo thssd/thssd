@@ -11,18 +11,8 @@ Busco constantemente aprimorar minhas habilidades através do desenvolvimento de
 ---
 
 ## 🚀 Tech Stack
-
-### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring,maven" />
-</p>
-
-### Database
-<p>
 <img src="https://skillicons.dev/icons?i=postgres,hibernate" />
-</p>
-
-### Tools
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,idea,postman" />
 </p>
