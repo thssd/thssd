@@ -11,7 +11,7 @@ Continuously improving my skills through hands-on projects, applying software en
 ## 🚀 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,maven,git,github,idea&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,maven,git,idea&perline=8" />
   </a>
 </p>
 
