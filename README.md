@@ -2,8 +2,6 @@
 
 ### Backend Developer | Java & Spring Boot
 
-Backend developer in training, focused on the Java ecosystem and REST API development.
-
 Continuously improving my skills through hands-on projects, applying software engineering best practices, backend architecture concepts, and scalable application development.
 
 ---
