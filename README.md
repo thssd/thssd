@@ -6,7 +6,7 @@ Continuously improving my skills through hands-on projects, applying software en
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack 🚀
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,hibernate,maven,git" />
